@@ -1,0 +1,101 @@
+
+
+h1
+{
+  font-family: 'Aclonica';
+  font-size: 45px;
+  padding: 40px;
+  text-align: center;
+}
+
+body
+{
+  background-color: white;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #CC1228;
+  color: white;
+  text-align: center;
+}
+
+.box
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+/* .reviews
+{
+  display: flex;
+  justify-content: center;
+} */
+table, th, td
+{
+  border: 2.5px solid black;
+  font-size: 22px;
+}
+
+ table
+{
+    font-family: 'Aclonica';
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+img
+{
+  max-width: 100%;
+  max-height: 100%;
+}
+.display_box
+{
+  margin: 5px;
+  width: 400px;
+  height: 500px;
+  text-align: center;
+  color: black;
+  font-size: 24px;
+  font-family: 'Courier Prime', monospace;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #CC1228;
+}
+.display_box > p
+{
+  padding-top: 25px;
+  padding-bottom: 50px;
+  font-family: 'Courier Prime',sans-serif;
+}
+.navbar
+{
+  font-family: 'Aclonica' !important;
+  font-size: 25px;
+}
+.text
+{
+  margin: 60px;
+  text-align: left;
+  padding-bottom: 50px;
+}
+.text_non_l
+{
+  text-align: left;
+  width 400px;
+  height 500px;
+}
+.text_non_r
+{
+  text-align:right;
+  width 400px;
+  height 500px;
+}
+.text > p
+{
+  font-size: 25px;
+  font-family: 'Courier Prime',sans-serif;
+}

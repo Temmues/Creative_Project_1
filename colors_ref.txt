@@ -1,0 +1,5 @@
+#94575E   Footer
+#C9AEAA   background
+#C9C0BB   Alt
+#CC1228   bright highlight
+#FF334A   Header
